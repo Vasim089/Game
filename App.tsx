@@ -43,7 +43,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <ImageBackground 
-        source={require('./assets/card_bg.png')} 
+        source={require('./assets/card_bg.jpg')} 
         style={StyleSheet.absoluteFill}
         resizeMode="cover"
       />
